@@ -17,6 +17,5 @@ Learn more about Amazon EMR [here](https://aws.amazon.com/emr/).	Learn more abou
 | |[2d - Pig and EMR Steps](L2d-PigStep.md) |Run Pig via EMR Steps |
 |3 |[3a - Spark Submit](L3a-SparkSubmit.md) |Run Spark via Spark Submit |
 | |[3b - Spark Logging](L3b-SparkMonitor.md) |Work with Spark Logs and Spark UI |
+|4 |[4 - EMR Notebooks](L4a-Notebook.md) |Run PySpark via EMR Notebooks/Jupyter
 |5 |[5 - Next Steps](NextSteps.md) |Next Steps for EMR |
-
-<!--|4 |[4 - EMR Notebooks](L4a-Notebook.md) |Run PySpark via EMR Notebooks/Jupyter |-->
