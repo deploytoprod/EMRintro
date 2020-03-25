@@ -1,5 +1,7 @@
 # Lab 3
 
+Note: if you skip Lab2, please follow [this instructions](https://github.com/deploytoprod/EMRintro/blob/master/L2a-S3.md) to create the scaffolding needed for Lab3.
+
 # Working with Spark
 
 This lab demonstrates submitting and monitoring Spark-based ETL work to an Amazon EMR cluster.
