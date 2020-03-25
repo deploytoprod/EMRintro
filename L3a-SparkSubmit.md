@@ -1,6 +1,6 @@
 # Lab 3
 
-Note: if you skip Lab2, please follow [these instructions](L2a-S3.md) to create the scaffolding needed for Lab3. When you finish that, you can continue with the below instructions.
+Note: if you skip Lab2, please follow [these instructions](L2a-S3.md) to create the scaffolding needed for Lab3. When you finish that, you can continue with the instructions below.
 
 # Working with Spark
 
