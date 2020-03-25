@@ -40,4 +40,4 @@ Your terminal should now look similar to this:
 ![screenshot](images/H2.png)
 
 ## Congratulations - you have created a S3 bucket and populated it with data
-Please continue to the [next section](L2b-HiveCLI.md).
+Please continue to the [next section of Lab2](L2b-HiveCLI.md).
