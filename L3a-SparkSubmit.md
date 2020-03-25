@@ -1,6 +1,6 @@
 # Lab 3
 
-Note: if you skip Lab2, please follow [this instructions](https://github.com/deploytoprod/EMRintro/blob/master/L2a-S3.md) to create the scaffolding needed for Lab3.
+Note: if you skip Lab2, please follow [those instructions](https://github.com/deploytoprod/EMRintro/blob/master/L2a-S3.md) to create the scaffolding needed for Lab3. When you finish that, you can continue with the below instructions.
 
 # Working with Spark
 
