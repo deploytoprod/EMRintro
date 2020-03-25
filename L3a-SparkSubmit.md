@@ -1,6 +1,6 @@
 # Lab 3
 
-Note: if you skip Lab2, please follow [these instructions](L2a-S3.md) to create the scaffolding needed for Lab3. When you finish that, you can continue with the instructions below.
+Note: if you skip Lab2, please follow [these instructions](L2a-S3.md) to create the S3 bucket needed for Lab3. When you finish that, you can continue with the instructions below. Keep the terminal open, you will need that for Lab3.
 
 # Working with Spark
 
