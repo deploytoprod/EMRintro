@@ -1,3 +1,5 @@
+# Lab 3
+
 # Working with Spark
 
 This lab demonstrates submitting and monitoring Spark-based ETL work to an Amazon EMR cluster.
